@@ -1,0 +1,3 @@
+rootProject.name = 'MyOneThing'
+
+include ':app'
